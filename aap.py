@@ -17,7 +17,7 @@ PRODUCT_MAP = {
     "bag": "static/paper_bag.jpeg",
     "paper_bowl": "static/paper_bowl.jpeg",
     "white_cup": "static/white_cup.jpeg",
-    "meal_box": "static/meal_box.jpeg",
+    "meal box": "static/meal box.jpeg",
     "napkin": "static/napkin.jpeg",
     "wrapping_paper": "static/wrapping_paper.jpeg"
 }
